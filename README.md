@@ -1,3 +1,9 @@
+What we changed
+=============
+Add % when display in knob
+
+
+
 jQuery Knob
 =============
 
