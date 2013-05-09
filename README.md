@@ -1,6 +1,6 @@
 What we changed
 =============
-Add % when display in knob
+- Add % when display in knob
 
 
 
