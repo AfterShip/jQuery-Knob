@@ -541,7 +541,7 @@
                 || this.v > this.o.max
             ) this.v = this.o.min;
 
-            this.$.val(this.v);
+            this.$.val(this.v + "%");
             this.w2 = this.o.width / 2;
             this.cursorExt = this.o.cursor / 100;
             this.xy = this.w2;
